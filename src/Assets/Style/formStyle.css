@@ -33,7 +33,7 @@
 /* form label box large style starts from here*/
 .form-labels-box-large-left-side{
     width: 385px;
-    height: 50px;
+    height: 52px;
     border-bottom-left-radius: 5px;
     border: solid 1.5px #c9c9c9;
     background-color: #c9c9c9;
@@ -50,7 +50,7 @@
 /* form label box large style ends here*/
 /* form label box small style starts from here*/
 .form-labels-box-small-left-side{
-    width: 180px;
+    width: 125px;
     height: 50px;
     border-bottom-left-radius: 5px;
     border: solid 1.5px #c9c9c9;
@@ -64,5 +64,10 @@
     border: solid 1.5px #c9c9c9;
     background-color: #fff;
     border-top-right-radius: 5px;
+}
+
+/* common width for all heading */
+.width-555{
+    width: 555px;
 }
 /* form label box small style ends here*/
