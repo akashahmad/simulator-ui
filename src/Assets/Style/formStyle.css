@@ -1,0 +1,68 @@
+/* form heading and labels style */
+.form-heading{
+    font-size: 16px;
+    font-weight: bold;   
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-label{
+    font-size: 16px;
+    font-weight: normal;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+}
+/* form heading and labels style ends here */
+/* form buttons blue and green */
+.btn-common{
+    padding: 18px 35px 17px 37px;
+    border-radius: 5px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border:1px #e6e6e6;     
+}
+.btn-blue{
+    background-color: #0383c9;
+}
+.btn-green{
+    background-color: #81c442;;
+}
+/* form buttons blue and green style ends here*/
+/* form label box large style starts from here*/
+.form-labels-box-large-left-side{
+    width: 385px;
+    height: 50px;
+    border-bottom-left-radius: 5px;
+    border: solid 1.5px #c9c9c9;
+    background-color: #c9c9c9;
+    border-top-left-radius: 5px;
+}
+.form-labels-box-large-right-side{
+    width: 170px;
+    height: 50px;
+    border-bottom-right-radius: 5px;
+    border: solid 1.5px #c9c9c9;
+    background-color: #fff;
+    border-top-right-radius: 5px;
+}
+/* form label box large style ends here*/
+/* form label box small style starts from here*/
+.form-labels-box-small-left-side{
+    width: 180px;
+    height: 50px;
+    border-bottom-left-radius: 5px;
+    border: solid 1.5px #c9c9c9;
+    background-color: #c9c9c9;
+    border-top-left-radius: 5px;
+}
+.form-labels-box-small-right-side{
+    width: 105px;
+    height: 50px;
+    border-bottom-right-radius: 5px;
+    border: solid 1.5px #c9c9c9;
+    background-color: #fff;
+    border-top-right-radius: 5px;
+}
+/* form label box small style ends here*/

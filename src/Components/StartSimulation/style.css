@@ -1,0 +1,37 @@
+.main-div-simulation{
+    background: #f6f6f6;
+    min-height: 91vh;
+}
+.main-div-simulation .simulation-box{
+    width: 65%;
+    background: #fff;
+    margin: 50px 0px 0px 0px;
+    height: 75vh;
+    border-radius: 8px;
+    box-shadow: 0 0 18px 0 rgba(9, 2, 45, 0.09);
+    border: solid 1px #e6e6e6;
+}
+.main-div-simulation .simulation-box .start-Simulation-heading{
+    height: 25vh;
+    padding: 50px 0px 0px 0px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #0383c9;  
+}
+.main-btn-div .plus-img{
+    border-radius: 8px;
+    border: 1px solid #0383c9;
+    padding: 47px 50px 20px 97px;
+    margin: 0px 13px 0px 0px;
+}
+.main-btn-div .plus-img:hover{
+    background: #e5f5ff;    
+}
+.main-btn-div .plus-img h4{
+    width: 130px;
+    text-align: center;
+    margin: 13px 0px 0px -42px;
+    color: #0383c9;
+    padding: 2px;
+    line-height: 23px;
+}

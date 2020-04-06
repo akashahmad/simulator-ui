@@ -1,0 +1,24 @@
+.main{
+    margin-bottom: 6px;
+} 
+.main .img-header {
+    margin: 13px 0px 3px 47px;
+}
+
+.main .main-div-list{
+    margin: 20px 0px 3px 47px;
+}
+.main ul li{
+    list-style: none;
+    padding-right: 22px;
+    color: #ababab;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.main ul .vertical-line{
+    background: #ababab;
+    width: 1px;
+    height: 14px;
+    margin-top: 1px;
+    margin-right: 21px;
+}
