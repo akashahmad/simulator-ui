@@ -15,7 +15,7 @@
 /* form heading and labels style ends here */
 /* form buttons blue and green */
 .btn-common{
-    padding: 18px 35px 17px 37px;
+    padding: 18px 38px 17px 37px;
     border-radius: 5px;
     color: #fff;
     font-family: 'Roboto', sans-serif;
@@ -32,20 +32,24 @@
 /* form buttons blue and green style ends here*/
 /* form label box large style starts from here*/
 .form-labels-box-large-left-side{
-    width: 385px;
-    height: 52px;
+    width: 230px;
+    padding: 8px 0px 0px 14px;
+    height: 27px;
     border-bottom-left-radius: 5px;
     border: solid 1.5px #c9c9c9;
     background-color: #c9c9c9;
     border-top-left-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 .form-labels-box-large-right-side{
-    width: 170px;
-    height: 50px;
+    width: 94px;
+    padding: 0px 0px 0px 15px;
+    height: 35px;
     border-bottom-right-radius: 5px;
     border: solid 1.5px #c9c9c9;
     background-color: #fff;
     border-top-right-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 /* form label box large style ends here*/
 /* form label box small style starts from here*/
@@ -56,6 +60,7 @@
     border: solid 1.5px #c9c9c9;
     background-color: #c9c9c9;
     border-top-left-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 .form-labels-box-small-right-side{
     width: 105px;
@@ -64,6 +69,7 @@
     border: solid 1.5px #c9c9c9;
     background-color: #fff;
     border-top-right-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 
 /* common width for all heading */
@@ -71,3 +77,12 @@
     width: 555px;
 }
 /* form label box small style ends here*/
+/* select option of form */
+/* form label box large style starts from here*/
+.form-select-option{
+    width: 363px;
+    padding: 0px 0px 0px 14px;
+    height: 40px;
+    border: solid 1.5px #c9c9c9;
+    border-radius: 5px;
+}
