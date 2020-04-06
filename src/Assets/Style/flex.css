@@ -30,4 +30,6 @@ flex-direction: row;
 .flex-1{
     flex: 1;
 }
-
+.justify-content-start{
+    justify-content: flex-start;   
+}

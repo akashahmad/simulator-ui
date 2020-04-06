@@ -20,6 +20,12 @@ border-radius: 8px 8px 0px 0px;
 .form-div-for-width .item-pool-select-option{
 margin-left: -58px;
 }
+.form-div-for-width .radio-btn-of-theta-label{
+    width: 400px;
+}
+.form-div-for-width .item-pool-label-input{
+    margin-top: -63px;
+}
 .form-div-for-width .item-checkbox-label-input{
     width: 481px;
     display: flex;
