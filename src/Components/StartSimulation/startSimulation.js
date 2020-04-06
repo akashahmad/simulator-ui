@@ -14,11 +14,11 @@ export default () => {
                     </div>
                     {/* new administrator or second administrator buttons */}
                     <div className="d-flex justify-content-center main-btn-div">
-                        <span className="plus-img">
+                        <span className="plus-img cursor-pointer">
                             <img src={PlusImage} alt="New Administrator"/>
                             <h4>New Administrator</h4>
                         </span>
-                        <span className="plus-img mrg-left-10">
+                        <span className="plus-img mrg-left-10 cursor-pointer">
                             <img src={SelectImage} alt="New Administrator"/>
                             <h4>New Administrator</h4>
                         </span>

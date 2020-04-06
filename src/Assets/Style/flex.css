@@ -6,6 +6,12 @@
     display:-moz-box; 
     display:-ms-flexbox;
 }
+.flex-column{
+    flex-direction: column;
+}
+.flex-row{
+flex-direction: row;    
+}
 .justify-content-around{
     justify-content: space-around;
 }

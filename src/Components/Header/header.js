@@ -13,13 +13,13 @@ export default () => {
                 {/* header links */}
                 <div>
                     <ul className="d-flex justify-content-between main-div-list">
-                        <li>Hello! Simul</li>
+                        <li className="cursor-pointer">Hello! Simul</li>
                         {/* empty div for Vertical line */}
                         <div className="vertical-line"></div>
-                        <li>Home</li>
+                        <li className="cursor-pointer">Home</li>
                         {/* empty div for Vertical line */}
                         <div className="vertical-line"></div>
-                        <li>Logout</li>
+                        <li className="cursor-pointer">Logout</li>
                     </ul>
                 </div>
             </div>

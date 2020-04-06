@@ -1,7 +1,7 @@
 @import './flex.css';
 @import './formStyle.css';
 @import './margin&padding.css';
-
+@import './commonStyle.css';
 body{
     font-family: 'Roboto', sans-serif;
     padding: 0px;
